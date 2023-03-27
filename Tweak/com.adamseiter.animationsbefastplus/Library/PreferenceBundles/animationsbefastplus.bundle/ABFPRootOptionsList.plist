@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Màn hình khoá</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.adamseiter.animationsbefastplus/preferencesChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.adamseiter.animationsbefastplus</string>
+			<key>key</key>
+			<string>instantPasscode</string>
+			<key>label</key>
+			<string>Hiển thị mật mã tức thì</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.adamseiter.animationsbefastplus/preferencesChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.adamseiter.animationsbefastplus</string>
+			<key>key</key>
+			<string>disablePasscodeHighlight</string>
+			<key>label</key>
+			<string>Tắt tính năng tô sáng nút mật mã</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.adamseiter.animationsbefastplus/preferencesChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.adamseiter.animationsbefastplus</string>
+			<key>key</key>
+			<string>disableChargingBattery</string>
+			<key>label</key>
+			<string>Tắt hiệu ứng sạc ở màn hình khoá</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Màn hình chính</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.adamseiter.animationsbefastplus/preferencesChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.adamseiter.animationsbefastplus</string>
+			<key>key</key>
+			<string>disableFlyIn</string>
+			<key>label</key>
+			<string>Tắt biểu tượng bay vào khi mở khoá</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.adamseiter.animationsbefastplus/preferencesChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.adamseiter.animationsbefastplus</string>
+			<key>key</key>
+			<string>disableJitter</string>
+			<key>label</key>
+			<string>Tắt rung lắc biểu tượng khi chỉnh sửa</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Trung tâm thông báo</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.adamseiter.animationsbefastplus/preferencesChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.adamseiter.animationsbefastplus</string>
+			<key>key</key>
+			<string>disableNCBounce</string>
+			<key>label</key>
+			<string>Tắt nhún Trung tâm thông báo</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Đa nhiệm</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.adamseiter.animationsbefastplus/preferencesChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.adamseiter.animationsbefastplus</string>
+			<key>key</key>
+			<string>homescreenScale</string>
+			<key>label</key>
+			<string>Tắt thu phóng biểu tượng</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.adamseiter.animationsbefastplus/preferencesChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.adamseiter.animationsbefastplus</string>
+			<key>key</key>
+			<string>wallpaperScale</string>
+			<key>label</key>
+			<string>Tắt thu phóng hình nền</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.adamseiter.animationsbefastplus/preferencesChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.adamseiter.animationsbefastplus</string>
+			<key>key</key>
+			<string>cardSelectionScale</string>
+			<key>label</key>
+			<string>Tắt thu phóng chọn thẻ</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>AnimationsBeFastPlus</string>
+</dict>
+</plist>

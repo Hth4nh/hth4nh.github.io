@@ -1,0 +1,10 @@
+Package: dev.midn1ght.copylog
+Name: CopyLog 🇻🇳
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Clipboard history manager for iOS!
+Maintainer: Hth4nh
+Author: TomT000, Midn1ghtDev
+Section: Tweaks
+Version: 1.5.3
+Installed-Size: 4616

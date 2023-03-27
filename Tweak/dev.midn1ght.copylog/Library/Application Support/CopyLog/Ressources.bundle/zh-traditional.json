@@ -1,0 +1,41 @@
+{
+  "no-favorites": "無喜好項目",
+  "one-favorite": "1個喜好項目",
+  "x-favorites": "*個喜好項目",
+
+  "no-snippets": "無剪貼項",
+  "one-snippet": "1個剪貼項",
+  "x-snippets": "*個剪貼項",
+
+  "unknown": "未知",
+  "search": "搜索",
+
+  "edit": "編輯",
+  "remove": "刪除",
+  "favorite": "加入喜好項目",
+  "unfavorite": "不再喜好",
+  "cancel": "取消",
+
+  "last-year": "去年",
+  "x-years-ago": "* 年前",
+  "last-month": "上個月",
+  "x-months-ago": "* 個月前",
+  "last-week": "上周",
+  "x-weeks-ago": "* 周前",
+  "yesterday": "昨天",
+  "x-day-ago": "* 天前",
+  "one-hour-ago": "1 小時前",
+  "x-hours-ago": "* 小時前",
+  "one-min-ago": "1 分鐘前",
+  "x-min-ago": "* 分鐘前",
+  "one-sec-ago": "1 秒前",
+  "x-sec-ago": "* 秒前",
+
+  "no-history": "剪貼板無内容",
+  "start-copying": "開始複製吧！它們會顯示在這裡",
+
+  "no-favorite": "無喜好項目",
+  "fav-long": "長按加入喜好項目",
+
+  "loading": "載入中…"
+}

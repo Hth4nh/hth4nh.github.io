@@ -1,0 +1,16 @@
+Author: Droom0ne <droom1@protonmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: TabBlocker
+Package: com.droomone.tabblocker
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
+Section: Tweaks
+Installed-Size: 340
+Version: 1.3.2
+Architecture: iphoneos-arm
+Description: Blocking new advertisement tabs & more
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tabblockerDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tabblockerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: droom0ne
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/TabBlockerPreferenceBundle.bundle/icon.png

@@ -1,0 +1,40 @@
+{
+  "no-favorites": "لا يوجد نصوص مفضلة",
+  "one-favorite": "١ مفضل",
+  "x-favorites": "* نصوص مفضلة",
+
+  "no-snippets": "لا يوجد نصوص",
+  "one-snippet": "١ نص",
+  "x-snippets": "* نصوص",
+
+  "search": "بحث",
+
+  "edit": "تصحيح",
+  "remove": "حذف",
+  "favorite": "تفضيل",
+  "unfavorite": "إزالة التفضيل",
+  "cancel": "إلغاء",
+
+  "last-year": "العام الماضي",
+  "x-years-ago": "قبل * سنوات",
+  "last-month": "الشهر الماضي",
+  "x-months-ago": "قبل * شهور",
+  "last-week": "قبل اسبوع",
+  "x-weeks-ago": "قبل * اسابيع",
+  "yesterday": "البارحة",
+  "x-day-ago": "قبل * ايام",
+  "one-hour-ago": "قبل ساعة",
+  "x-hours-ago": "قبل * ساعات",
+  "one-min-ago": "قبل دقيقة",
+  "x-min-ago": "قبل * دقائق",
+  "one-sec-ago": "قبل ثانية",
+  "x-sec-ago": "قبل * ثواني",
+
+  "no-history": "لا يوجد نصوص متوفرة حاليًا",
+  "start-copying": "إبدا بنسخ النصوص وسوف تظهر هنا",
+
+  "no-favorite": "لا يوجد نصوص مفضلة",
+  "fav-long": "قم بتفضيل نص معيّن عن طريق الضغط عليه مطوّلًا",
+
+  "loading": "جاري التحميل..."
+}

@@ -1,0 +1,43 @@
+{
+  "no-favorites": "Yêu thích: 0",
+  "one-favorite": "Yêu thích: 1",
+  "x-favorites": "Yêu thích: *",
+
+  "no-snippets": "Bản sao: 0",
+  "one-snippet": "Bản sao: 1",
+  "x-snippets": "Bản sao: *",
+
+  "unknown": "Không rõ",
+  "search": "Tìm kiếm",
+
+  "edit": "Chỉnh sửa",
+  "remove": "Xoá bỏ",
+  "favorite": "Yêu thích",
+  "unfavorite": "Huỷ yêu thích",
+  "cancel": "Huỷ bỏ",
+
+  "last-year": "NĂM NGOÁI",
+  "x-years-ago": "* NĂM TRƯỚC",
+  "last-month": "1 THÁNG TRƯỚC",
+  "x-months-ago": "* THÁNG TRƯỚC",
+  "last-week": "1 TUẦN TRƯỚC",
+  "x-weeks-ago": "* TUẦN TRƯỚC",
+  "yesterday": "HÔM QUA",
+  "x-day-ago": "* NGÀY TRƯỚC",
+  "one-hour-ago": "1 TIẾNG TRƯỚC",
+  "x-hours-ago": "* TIẾNG TRƯỚC",
+  "one-min-ago": "1 PHÚT TRƯỚC",
+  "x-min-ago": "* PHÚT TRƯỚC",
+  "one-sec-ago": "1 GIÂY TRƯỚC",
+  "x-sec-ago": "* GIÂY TRƯỚC",
+
+  "no-history": "Không có bản sao nào",
+  "start-copying": "Bắt đầu sao chép và nó sẽ hiện ra ở đây.",
+
+  "no-favorite": "Không có mục yêu thích nào.",
+  "fav-long": "Nhấn giữ bản sao để yêu thích.",
+
+  "no-results": "Không tìm thấy.",
+
+  "loading": "Đang tải..."
+}

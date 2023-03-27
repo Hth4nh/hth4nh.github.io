@@ -1,0 +1,43 @@
+{
+  "no-favorites": "Aucun Favoris",
+  "one-favorite": "1 Favori",
+  "x-favorites": "* Favoris",
+
+  "no-snippets": "Aucunes Copies",
+  "one-snippet": "1 Copie",
+  "x-snippets": "* Copies",
+
+  "unknown": "Inconnu",
+  "search": "Rechercher",
+
+  "edit": "Modifier",
+  "remove": "Supprimer",
+  "favorite": "Favori",
+  "unfavorite": "Supr. Favori",
+  "cancel": "Annuler",
+
+  "last-year": "AN DERNIER",
+  "x-years-ago": "IL Y A * AN",
+  "last-month": "MOIS DERNIER",
+  "x-months-ago": "IL Y A * MOIS",
+  "last-week": "SEMAINE DERNIERE",
+  "x-weeks-ago": "IL Y A * SEMAINES",
+  "yesterday": "HIER",
+  "x-day-ago": "IL Y A * JOURS",
+  "one-hour-ago": "IL Y A 1 HEURE",
+  "x-hours-ago": "IL Y A * HEURES",
+  "one-min-ago": "IL Y A 1 MINUTE",
+  "x-min-ago": "IL Y A * MINUTES",
+  "one-sec-ago": "IL Y A 1 SECONDE",
+  "x-sec-ago": "IL Y A * SECONDES",
+
+  "no-history": "Aucun historique disponibile.",
+  "start-copying": "Copiez pour voir votre historique s'afficher ici.",
+
+  "no-favorite": "Pas de copies favorites.",
+  "fav-long": "Appuyez longement sur une copie pour la mettre en favori.",
+
+  "no-results": "Aucun résultats.",
+
+  "loading": "Chargement..."
+}

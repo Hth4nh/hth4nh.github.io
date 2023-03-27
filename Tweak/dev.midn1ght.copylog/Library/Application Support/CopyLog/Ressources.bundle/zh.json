@@ -1,0 +1,41 @@
+{
+  "no-favorites": "无收藏",
+  "one-favorite": "1个收藏",
+  "x-favorites": "*个收藏",
+
+  "no-snippets": "无剪贴项",
+  "one-snippet": "1个剪贴项",
+  "x-snippets": "*个剪贴项",
+
+  "unknown": "未知",
+  "search": "搜索",
+
+  "edit": "编辑",
+  "remove": "移除",
+  "favorite": "收藏",
+  "unfavorite": "不再收藏",
+  "cancel": "取消",
+
+  "last-year": "去年",
+  "x-years-ago": "* 年前",
+  "last-month": "上个月",
+  "x-months-ago": "* 个月前",
+  "last-week": "上周",
+  "x-weeks-ago": "* 周前",
+  "yesterday": "昨天",
+  "x-day-ago": "* 天前",
+  "one-hour-ago": "1 小时前",
+  "x-hours-ago": "* 小时前",
+  "one-min-ago": "1 分钟前",
+  "x-min-ago": "* 分钟前",
+  "one-sec-ago": "1 秒前",
+  "x-sec-ago": "* 秒前",
+
+  "no-history": "剪贴板无内容",
+  "start-copying": "开始复制吧，它们会显示在这儿",
+
+  "no-favorite": "无收藏",
+  "fav-long": "长按以收藏",
+
+  "loading": "加载中…"
+}

@@ -1,0 +1,41 @@
+{
+  "no-favorites": "No hay Favoritos",
+  "one-favorite": "Un Favorito",
+  "x-favorites": "* Favoritos",
+
+  "no-snippets": "Nada Copiado",
+  "one-snippet": "Una Copia",
+  "x-snippets": "* Copiados",
+
+  "unknown": "Desconocido",
+  "search": "Buscar",
+
+  "edit": "Editar",
+  "remove": "Quitar",
+  "favorite": "Favorito",
+  "unfavorite": "✕ Favorito",
+  "cancel": "Cancelar",
+
+  "last-year": "AÑO PASADO",
+  "x-years-ago": "* AÑOS ATRÁS",
+  "last-month": "ÚLTIMO MES",
+  "x-months-ago": "* MESES ATRÁS",
+  "last-week": "SEMANA PASADA",
+  "x-weeks-ago": "* SEMANAS ATRÁS",
+  "yesterday": "AYER",
+  "x-day-ago": "* DÍAS ATRÁS",
+  "one-hour-ago": "HACE UNA HORA",
+  "x-hours-ago": "* HORAS ATRÁS",
+  "one-min-ago": "HACE UN MINUTO",
+  "x-min-ago": "* MINUTOS ATRÁS",
+  "one-sec-ago": "HACE UN SEGUNDO",
+  "x-sec-ago": "* SEGUNDOS ATRÁS",
+
+  "no-history": "No hay historial de copias.",
+  "start-copying": "Empieza a copiar y aparecerán aquí.",
+
+  "no-favorite": "No hay copias favoritas.",
+  "fav-long": "Marca como favorito una copia dejando presionado.",
+
+  "loading": "Cargando..."
+}

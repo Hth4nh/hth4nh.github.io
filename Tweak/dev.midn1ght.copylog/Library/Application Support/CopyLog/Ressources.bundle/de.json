@@ -1,0 +1,40 @@
+{
+  "no-favorites": "Keine Favoriten",
+  "one-favorite": "1 Favorit",
+  "x-favorites": "* Favoriten",
+
+  "no-snippets": "Keine Ausschnitte",
+  "one-snippet": "1 Auschnitt",
+  "x-snippets": "* Ausschnitte",
+
+  "search": "Suche",
+
+  "edit": "Bearbeiten",
+  "remove": "Entfernen",
+  "favorite": "Favorisieren",
+  "unfavorite": "Entfavorisieren",
+  "cancel": "Abbrechen",
+
+  "last-year": "LETZTES JAHR",
+  "x-years-ago": "VOR * JAHREN",
+  "last-month": "LETZTEN MONAT",
+  "x-months-ago": "VOR * MONATEN",
+  "last-week": "LETZTE WOCHE",
+  "x-weeks-ago": "VOR * WOCHEN",
+  "yesterday": "GESTERN",
+  "x-day-ago": "VOR * TAGEN",
+  "one-hour-ago": "VOR 1 STUNDE",
+  "x-hours-ago": "VOR * STUNDEN",
+  "one-min-ago": "VOR 1 MINUTE",
+  "x-min-ago": "VOR * MINUTEN",
+  "one-sec-ago": "VOR 1 SEKUNDE",
+  "x-sec-ago": "VOR * SEKUNDEN",
+
+  "no-history": "Kein Auschnittverlauf verfügbar.",
+  "start-copying": "Mit dem Kopieren beginnen, um deine Ausschnitte hier anzuzeigen.",
+
+  "no-favorite": "Keine favorisierten Ausschnitte.",
+  "fav-long": "Ausschnitt durch längeres Drücken favorisieren.",
+
+  "loading": "Laden..."
+}

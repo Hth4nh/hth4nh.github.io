@@ -1,0 +1,11 @@
+Package: com.adamseiter.animationsbefastplus
+Name: AnimationsBeFastPlus 🇻🇳
+Version: 5.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, applist, firmware (<= 14), com.rpetrich.rocketbootstrap
+Conflicts: ru.rejail.animationsbefastplus_5.0k, com.adamseiter.animationsbefast,com.pulandres.animationsbefastpluss, jp.novi.FakeClockUp, jp.novi.FakeClockUp2, com.zezblog.noslowanimationsar, com.marcosinghof.noslowanimations, com.pknauf.nsa, com.idevicehacked.nsa, com.hackyouriphone.animationsbefastplus, com.hackyouriphone.animationsbefast, org.cydia.kiimo.animationsbefastplus, ru.rejail.animationsbefastplus
+Installed-Size: 464
+Author: eXqusic
+Maintainer: eXqusic
+Description: Speed up animations

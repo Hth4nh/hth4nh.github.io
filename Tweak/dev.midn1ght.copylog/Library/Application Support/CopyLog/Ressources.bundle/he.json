@@ -1,0 +1,40 @@
+{
+  "no-favorites": "אין מועדפים",
+  "one-favorite": "1 מועדף",
+  "x-favorites": "* מועדפים",
+
+  "no-snippets": "אין קטעי טקסט",
+  "one-snippet": "1 קטע טקסט",
+  "x-snippets": "* קטעי טקסט",
+
+  "search": "חיפוש",
+
+  "edit": "ערוך",
+  "remove": "מחק",
+  "favorite": "העדפה",
+  "unfavorite": "בטל העדפה",
+  "cancel": "ביטול",
+
+  "last-year": "שנה שעברה",
+  "x-years-ago": "לפני * שנים",
+  "last-month": "חודש שעבר",
+  "x-months-ago": "לפני * חודשים",
+  "last-week": "לפני שבוע",
+  "x-weeks-ago": "לפני * שבועות",
+  "yesterday": "אתמול",
+  "x-day-ago": "לפני * ימים",
+  "one-hour-ago": "לפני שעה",
+  "x-hours-ago": "לפני * שעות",
+  "one-min-ago": "לפני דקה",
+  "x-min-ago": "לפני * דקות",
+  "one-sec-ago": "לפני שניה",
+  "x-sec-ago": "לפני * שניות",
+
+  "no-history": "אין קטעי טקסט זמינים כרגע",
+  "start-copying": "התחל להעתיק וזה יופיע פה",
+
+  "no-favorite": "אין טקסטים מועדפים",
+  "fav-long": "לחץ לחיצה ארוכה על טקסט מסויים כדי להוסיף אותו למועדפים",
+
+  "loading": "טוען..."
+}
